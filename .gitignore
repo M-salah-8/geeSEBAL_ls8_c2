@@ -128,5 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+data
+kc
+shapefile
+inputs.csv
+brief.png
+
 # git push file
 git.ipynb
