@@ -31,10 +31,11 @@ a. Raw png images.\
 b. Layout map images.\
 c. Time-series charts.\
 d. Time-series csv.\
-e. prief layout that contains the area shape in addition to the important charts and images.
+e. Prief layout that contains the area shape in addition to the important charts and images.
 5. Season notebook, that produce irrigation analysis for selected area throw growing season.
 
-....................... prief eg.
+prief images example:\
+![alt text](https://github.com/M-salah-8/geeSEBAL_ls8_c2/blob/master/brief.png)
 
 ## How to use season notebook
 ### Input
