@@ -38,7 +38,7 @@ e. prief layout that contains the area shape in addition to the important charts
 
 ## How to use season notebook
 ### Input
-1. Make a shapefile for the project and another one for the field to be observed inside the project (use just one shapefile if the field cover the whole area of interest). Put the shapefiles in a folder then put your folder in (>shapefile) folder.
+1. Make a shapefile for the project and another one for the field to be observed inside the project (use just one shapefile if the field cover the whole area of interest). Put the shapefiles in a folder then put your folder in (>shapefile) folder (if it's your first time make th shapefile folder).
 2. Use suitable crop coefficient (Kc) in a csv file (see the example in kc folder) and put it in (>kc) folder.
 3. Open (inputs.csv) (located in the main folder). Adjust names, dates and folder locations according to your inputs.
 ### Run the code
