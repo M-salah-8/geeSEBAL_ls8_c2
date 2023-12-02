@@ -1,3 +1,0 @@
-season,project_shp,field_shp,start_date,end_date,kc_dr
-2020_2021_wheat,shapefile\eg_folder\eg_project.shp,shapefile\eg_folder\eg_field.shp,2020-12-01,2021-04-01,kc\kc_wheat.csv
-2021_2022_wheat,shapefile\eg_folder\eg_project.shp,shapefile\eg_folder\eg_field.shp,2021-12-01,2022-04-01,kc\kc_wheat.csv
